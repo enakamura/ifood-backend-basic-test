@@ -70,4 +70,3 @@ http://localhost:7070/about
 ### Consulta do clima de uma cidade
 
 http://localhost:7070/weather/santos
-http://localhost:7070/about
