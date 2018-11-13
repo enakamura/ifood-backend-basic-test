@@ -10,6 +10,7 @@ com [Spring Boot][SpringBoot] 1.5.2 (torna o micro-serviço executável, sem nec
 
 Crie um *fork* deste repositório e siga as tarefas abaixo.
 
+
 ## Tarefas
 
 ### 1. Crie um endpoint para retornar informações sobre o serviço
@@ -58,3 +59,15 @@ Em caso de falha... o que poderia acontecer para que o nosso endpoint não retor
 [HystrixRepo]: https://github.com/Netflix/Hystrix
 [SpringInitializr]: https://start.spring.io/
 [SpringBoot]: https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#getting-started
+
+
+## Desenvolvimento
+
+### Status do serviço
+
+http://localhost:7070/about
+
+### Consulta do clima de uma cidade
+
+http://localhost:7070/weather/santos
+http://localhost:7070/about
